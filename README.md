@@ -25,7 +25,7 @@
 </p>
 <h4>I'm always open to interesting conversations and collaboration.</h4>
 <p>
-  <a href=""><img alt="ɧσℓσ#8810" src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://github.com/Holo795/Holo795/blob/master/discord"><img alt="ɧσℓσ#8810" src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Holo795&theme=solarized-dark)](https://github.com/Holo795)
