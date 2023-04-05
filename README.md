@@ -30,4 +30,4 @@
   <a href="https://paypal.me/PaulinSegura"><img alt="paypal" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/></a>
 </p>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Holo795&theme=solarized-dark)](https://github.com/Holo795)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Holo795&show_icons=true&theme=transparent)(https://github.com/Holo795)
