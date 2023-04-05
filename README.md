@@ -31,4 +31,3 @@
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Holo795&show_icons=true&theme=transparent)
-(https://github.com/Holo795)
